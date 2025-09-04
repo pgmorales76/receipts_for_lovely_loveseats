@@ -8,7 +8,7 @@ In this project, I'll be storing the names, and prices, of a furniture store’s
 
 When you're single, is there any reason to purchase furniture, which seats more than one person?!🤣
 
-When you're single, isn't a "loveseat" your own chair?!🤣
+When you're single, isn't a "loveseat" your own chair, in front of the computer?!🤣
 
 Let me know what you think.
 
